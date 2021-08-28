@@ -5,7 +5,7 @@
   <br>
 
 <a href="https://www.linkedin.com/in/gitesh-pareek-146a78213/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 <a href="https://twitter.com/PareeKGitesh89">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
