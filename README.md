@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hi 👋, I'm Gitesh Pareek</h1>
-<h3 align="center">A Techgeek and Gearhead/h3>
-  </div>
+  <h3 align="center">A Techgeek and Gearhead</h3>
+</div>
   <br>
 
 <a href="https://www.linkedin.com/in/gitesh-pareek-146a78213/">
