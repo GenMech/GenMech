@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gitesh Pareek</h1>
+<div>
+  <h1 align="center">Hi 👋, I'm Gitesh Pareek</h1>
 <h3 align="center">A Techgeek and Gearhead/h3>
-<br>
+  </div>
+  <br>
 
 <a href="https://www.linkedin.com/in/gitesh-pareek-146a78213/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
