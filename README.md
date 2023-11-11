@@ -21,7 +21,7 @@
 
 
 
-- 🌱 I’m currently learning about **Web3** and **DevOps**.
+- 🌱 I’m currently learning about **Blockchain/Solidity** and **DevOps**.
 - 👯 Ask me about **ReactJs, NextJs, NodeJs/Express and MongoDB**
 - 🤔 I’m looking to grow with community, collaborate on **Open Source Projects** and **Dev Roles**!
 - 📫 How to reach me: pareekgitesh89@gmail.com
