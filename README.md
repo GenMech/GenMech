@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi 👋, I'm Gitesh Pareek</h1>
-  <h3 align="center">A Techgeek and Web Developer from </h3>
+  <h3 align="center">A Techgeek and Web Developer from Delhi, India</h3>
 </div>
   <br>
 
