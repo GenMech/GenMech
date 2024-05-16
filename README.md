@@ -22,7 +22,7 @@
 
 
 - 🌱 I’m currently learning about **Solidity** and **DevOps**.
-- 👯 Ask me about **ReactJs, NextJs, NodeJs/Express and MongoDB**
+- 👯 Ask me about **ReactJs, NextJs, NodeJs/Express, MongoDB and Microservices**
 - 🤔 I’m looking to grow with community, collaborate on **Open Source Projects** and **Dev Roles**!
 - 📫 How to reach me: pareekgitesh89@gmail.com
 - 😄 Pronouns: He/Him/His
