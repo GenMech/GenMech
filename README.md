@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi 👋, I'm Gitesh Pareek</h1>
+  <h1 align="center">Hello 👋, I'm Gitesh Pareek</h1>
   <h3 align="center">A Techgeek and Software Engineer from Delhi, India</h3>
 </div>
   <br>
