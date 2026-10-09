@@ -1,34 +1,54 @@
 <div>
   <h1 align="center">Hello 👋, I'm Gitesh Pareek</h1>
-  <h3 align="center">A Techgeek and Software Engineer from Delhi, India</h3>
+  <h3 align="center">Backend & AI Engineer from Delhi, India</h3>
 </div>
-  <br>
 
-<a href="https://www.linkedin.com/in/gitesh-pareek-146a78213/">
-  <img align="left" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
-</a>
-<a href="https://twitter.com/PareeKGitesh89">
-  <img align="left" width="90px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://leetcode.com/GenMech/">
-  <img align="left" width="95px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
+<br>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsgitesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/PareeKGitesh89">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://leetcode.com/GenMech/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
-<br />
-<br />
+<br>
 
+- 🛠️ I enjoy building **backend systems, AI-powered applications, and developer tools**.
+- 🌱 Always learning, experimenting, and taking on new challenges.
+- 💬 Ask me about **TypeScript, Python, Node.js, FastAPI, asynchronous systems, RAG, and AI agents**.
+- 👯 Interested in **open-source collaboration, developer communities, and engineering opportunities**.
+- 📫 Reach me at **pareekgitesh89@gmail.com**
+- 😄 Pronouns: **He/Him**
+- 🌐 [Portfolio](https://gitesh.in/)
+- 📄 [Résumé](https://drive.google.com/file/d/1LrBUD9cP0OwR_IFlbT6UCpHsKaK-jnqJ/view?usp=sharing)
 
+### Languages and Tools
 
+**Languages**  
+TypeScript · JavaScript · Python · SQL · Java · Go
 
-- 🌱 I’m currently learning about **DevOps**.
-- 👯 Ask me about **ReactJs, NextJs, NodeJs/Express, MongoDB and Microservices**
-- 🤔 I’m looking to grow with community, collaborate on **Open Source Projects** and **Dev Roles**!
-- 📫 How to reach me: pareekgitesh89@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ [Portfolio!](http://giteshpareek.live/)
-- ⚡ [Resume!](https://rebrand.ly/tbu9q14)
+**Backend & APIs**  
+Node.js · Express.js · FastAPI · Celery · tRPC
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Frontend**  
+React · Next.js · HTML · CSS · Tailwind CSS
+
+**AI & Retrieval**  
+LangChain · AWS Bedrock · Gemini API · OpenRouter · Qdrant · RAG · Multi-agent orchestration
+
+**Databases & Caching**  
+MongoDB · PostgreSQL · Redis · Valkey · Upstash Redis
+
+**Cloud & Infrastructure**  
+Docker · AWS ECS Fargate · EC2 · SES · Git
+
+**Architecture & Systems**  
+Microservices · API gateways · Multi-tenancy · Asynchronous processing · SSE · Redis Pub/Sub · SSO
+
 <br>
